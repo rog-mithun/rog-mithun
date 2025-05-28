@@ -11,11 +11,11 @@
 <details>
 <summary>🧑‍💻 <strong>About Me</strong></summary>
 
-- 🔭 Currently working on cutting-edge AI projects involving **Generative Feedback Systems**, **Voice-enabled RL agents**, and **Green Optimization**  
-- ⚙️ Hands-on with **FastAPI**, **React**, **MongoDB**, **AWS**, **Arduino**, and more  
-- 🧠 Actively applying AI to solve real-world problems across **career development, customer support, energy**, and **manufacturing sectors**  
-- 🥇 Selected in **Top 50** IoT projects (Technovation – Anna University)  
-- 👥 Founder of the *CODEX Innovation Club* and event lead for GDG's *AI in Education*
+- ✅ Completed impactful AI/ML projects in **Generative AI**, **Reinforcement Learning**, **IoT**, and **GreenTech**  
+- ⚙️ Built and deployed solutions using **FastAPI**, **React**, **Streamlit**, **MongoDB**, **AWS**, **Arduino**, and more  
+- 🧠 Applied AI to real-world domains like **career guidance**, **customer service**, **energy optimization**, and **manufacturing analytics**  
+- 🥇 Selected in **Top 50** at Anna University’s **Technovation** IoT Embedded Systems showcase  
+- 👥 Founder of *CODEX Innovation Club* and lead for GDG-sponsored *AI in Education* event
 
 </details>
 
