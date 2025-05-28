@@ -11,12 +11,12 @@
 <details>
 <summary>🧑‍💻 <strong>About Me</strong></summary>
 
-- ✅ Completed diverse projects across **Artificial Intelligence**, **Cloud Computing**, **ERP Systems**, and **Full-Stack Software Development**  
-- 🧠 Delivered real-world solutions in **Generative AI**, **Reinforcement Learning**, **IoT monitoring**, and **GreenTech optimization**  
-- 💼 Also experienced in developing **Java applications**, customizing **Odoo ERP on AWS**, and building **secure cloud-based APIs and dashboards**  
-- ⚙️ Skilled in tools like **FastAPI, React, Streamlit, AWS, MongoDB, Oracle, Arduino**, and more  
-- 🏆 Selected in the **Top 50** IoT projects at **Anna University’s Technovation** competition  
-- 👥 Founder of *CODEX Innovation Club* and lead organizer of GDG-sponsored *AI in Education* event  
+- ✅ Completed projects across **AI/ML**, **Cloud Computing**, **ERP systems**, and **Software Development**  
+- 🧠 Delivered impactful solutions in **Generative AI**, **Reinforcement Learning**, **IoT monitoring**, and **GreenTech optimization**  
+- 💼 Experienced in customizing and deploying **Odoo ERP on AWS**, securing cloud systems with **SSL/Nginx**, and building backend tools  
+- ⚙️ Skilled in a wide range of technologies including **FastAPI, React, PostgreSQL, MongoDB, AWS, Arduino, Java**, and more  
+- 🏆 Recognized in the **Top 50 IoT Projects** at Anna University’s **Technovation** competition  
+- 👥 Founder of the *CODEX Innovation Club* and lead for GDG's *AI in Education* outreach program  
 
 </details>
 
