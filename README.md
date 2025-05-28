@@ -11,11 +11,12 @@
 <details>
 <summary>🧑‍💻 <strong>About Me</strong></summary>
 
-- ✅ Completed impactful AI/ML projects in **Generative AI**, **Reinforcement Learning**, **IoT**, and **GreenTech**  
-- ⚙️ Built and deployed solutions using **FastAPI**, **React**, **Streamlit**, **MongoDB**, **AWS**, **Arduino**, and more  
-- 🧠 Applied AI to real-world domains like **career guidance**, **customer service**, **energy optimization**, and **manufacturing analytics**  
-- 🥇 Selected in **Top 50** at Anna University’s **Technovation** IoT Embedded Systems showcase  
-- 👥 Founder of *CODEX Innovation Club* and lead for GDG-sponsored *AI in Education* event
+- ✅ Completed diverse projects across **Artificial Intelligence**, **Cloud Computing**, **ERP Systems**, and **Full-Stack Software Development**  
+- 🧠 Delivered real-world solutions in **Generative AI**, **Reinforcement Learning**, **IoT monitoring**, and **GreenTech optimization**  
+- 💼 Also experienced in developing **Java applications**, customizing **Odoo ERP on AWS**, and building **secure cloud-based APIs and dashboards**  
+- ⚙️ Skilled in tools like **FastAPI, React, Streamlit, AWS, MongoDB, Oracle, Arduino**, and more  
+- 🏆 Selected in the **Top 50** IoT projects at **Anna University’s Technovation** competition  
+- 👥 Founder of *CODEX Innovation Club* and lead organizer of GDG-sponsored *AI in Education* event  
 
 </details>
 
