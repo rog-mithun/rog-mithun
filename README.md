@@ -78,20 +78,20 @@ Embedded system with BH1750 + ESP32 to monitor idle time in textile industries.
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:mithunsankarsivakumar@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/ffffff/gmail-new.png" alt="gmail"/>
+  <a href="mailto:mithunsankarsivakumar@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/gmail-new.png" alt="gmail" style="margin: 0 15px;" />
   </a>
-  <a href="https://www.linkedin.com/in/mithunsankar-s" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/mithunsankar-s" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="linkedin" style="margin: 0 15px;" />
   </a>
-  <a href="https://github.com/rog-mithun" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/ffffff/github.png" alt="github"/>
+  <a href="https://github.com/rog-mithun" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/github.png" alt="github" style="margin: 0 15px;" />
   </a>
-  <a href="https://x.com/_m_i_t_h_u_n_?t=66ZqrrOg0YyxJr7chb3IEw&s=09" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/ffffff/twitterx.png" alt="twitter-x"/>
+  <a href="https://x.com/_m_i_t_h_u_n_?t=66ZqrrOg0YyxJr7chb3IEw&s=09" target="_blank" title="Twitter/X">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/twitterx.png" alt="twitterx" style="margin: 0 15px;" />
   </a>
-  <a href="https://www.instagram.com/_.mithun.___?igsh=MWFhbmM3bmZtMjFzZw==" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="instagram"/>
+  <a href="https://www.instagram.com/_.mithun.___?igsh=MWFhbmM3bmZtMjFzZw==" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="instagram" style="margin: 0 15px;" />
   </a>
 </p>
 
