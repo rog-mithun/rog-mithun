@@ -78,9 +78,10 @@ Embedded system with BH1750 + ESP32 to monitor idle time in textile industries.
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:mithunsankarsivakumar@gmail.com" title="Email">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mithunsankarsivakumar@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.icons8.com/ios-filled/40/ffffff/gmail-new.png" alt="gmail" style="margin: 0 15px;" />
   </a>
+
   <a href="https://www.linkedin.com/in/mithunsankar-s" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="linkedin" style="margin: 0 15px;" />
   </a>
