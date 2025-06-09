@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Mithunsankar S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7C04A&vCenter=true&center=true&width=460&lines=AI+%26+ML+Student;Passionate+about+Turning+Data+into+Insights;Solving+Business+Problems+with+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7C04A&vCenter=true&center=true&width=460&lines=AI+%26+ML+Student;Solving+Business+Problems+with+Tech" />
 </p>
 
 ---
