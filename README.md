@@ -1,4 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Mithunsankar S</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="banner" width="100%"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Mithunsankar S</h1>
 
 <p align="center">
 🎓 MSc Artificial Intelligence & Machine Learning (2021–2026)<br/>
@@ -8,114 +13,90 @@
 
 ---
 
-<details>
-<summary>🧑‍💻 <strong>About Me</strong></summary>
+## 🔥 A passionate full-stack + AI developer from India
 
-- ✅ Completed projects across **AI/ML**, **Cloud Computing**, **ERP systems**, and **Software Development**  
-- 🧠 Delivered impactful solutions in **Generative AI**, **Reinforcement Learning**, **IoT monitoring**, and **GreenTech optimization**  
-- 💼 Experienced in customizing and deploying **Odoo ERP on AWS**, securing cloud systems with **SSL/Nginx**, and building backend tools  
-- ⚙️ Skilled in a wide range of technologies including **FastAPI, React, PostgreSQL, MongoDB, AWS, Arduino, Java**, and more  
-- 🏆 Recognized in the **Top 50 IoT Projects** at Anna University’s **Technovation** competition  
-- 👥 Founder of the *CODEX Innovation Club* and lead for GDG's *AI in Education* outreach program  
-
-</details>
+- 🎯 Built 10+ academic and research projects in **AI/ML**, **ERP**, **GreenTech**, and **IoT**
+- 🚀 Currently working on Generative AI and RL-based assistants
+- 🏆 Top 50 IoT Finalist – Anna University *Technovation*
+- 👥 Founder – *CODEX Innovation Club*
+- 🌐 Learn more at: [mithunsankar.github.io](https://mithunsankar.github.io) *(Optional)*
 
 ---
 
-<details>
-<summary>🚀 <strong>Top Projects</strong></summary>
+## 📌 Featured Projects
 
 ### 🧠 SkillMorph AI – Personalized Career Simulator  
-- Developed an LLM-powered upskilling tool using **Google Gemini API** and **SadTalker** for animated video feedback  
-- Integrated LinkedIn/GitHub profiles to generate weekly learning paths via **Streamlit**
+🔗 `Google Gemini` · `SadTalker` · `Streamlit` · `Voice Feedback`  
+A smart upskilling recommender that analyzes resumes and voice-generates learning paths.
 
-### 🤖 Reinforcement Learning Chatbot – Voice-Enabled Customer Assistant  
-- Built a multi-turn RL chatbot using **Deep Q-Network (DQN)** and **BERT**, with speech-to-text and TTS  
-- Real-time interaction and deployment using **Streamlit**, trained with feedback loop and replay buffer
+### 🤖 RL Customer Assistant – Multi-turn Chatbot  
+🔗 `DQN` · `BERT` · `Streamlit` · `SpeechRecognition`  
+Voice-interactive reinforcement learning chatbot for real-time customer support.
 
-### ☀️ Solar Power Plant Optimizer – PSO-Based GreenTech Tool  
-- Built a full-stack platform using **Particle Swarm Optimization**, **FastAPI**, and **React + Leaflet**  
-- Helps select optimal solar plant locations based on irradiance, cost, and proximity to infrastructure
+### ☀️ Solar PSO Optimizer  
+🔗 `FastAPI` · `React` · `PSO Algorithm` · `Leaflet`  
+Location optimizer for solar plants based on irradiance, cost, and infrastructure.
 
-### 🧵 IoT Smart Monitoring System for Textile Industries  
-- Developed using **Arduino, ESP32, BH1750 sensors** to detect machine idle time via buzzer light  
-- Sent real-time alerts to a mobile/web app, improving productivity and energy efficiency  
-- Selected in **Top 50 IoT Embedded Projects** at *Technovation - Anna University*
-
-</details>
+### 🧵 IoT Textile Monitoring System  
+🔗 `ESP32` · `Arduino` · `BH1750`  
+Detects machine idle time and sends alerts to reduce electricity waste.
 
 ---
 
-<details>
-<summary>🛠 <strong>Tech Stack</strong></summary>
+## 🛠 Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
 
-**Frameworks & Tools:**  
-![Odoo](https://img.shields.io/badge/Odoo-874C8C?style=flat&logo=odoo&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-3C3C3C?style=flat)
+### 🧠 AI/ML & Optimization
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![PSO](https://img.shields.io/badge/-PSO%20Algorithm-orange?style=flat)
+![BERT](https://img.shields.io/badge/-BERT-blue?style=flat)
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+### 🌐 Full Stack & Cloud
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![NGINX](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![NGINX](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![SSL](https://img.shields.io/badge/-SSL-000000?style=flat)
+### 📊 Data & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
-**Analytics & Reporting:**  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat)
-
-**IoT & Embedded:**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+### 🔧 IoT & Embedded
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat)
 
-</details>
-
 ---
 
-<details>
-<summary>📈 <strong>GitHub Stats & Activity</strong></summary>
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rog-mithun&show_icons=true&theme=radical" alt="Mithunsankar's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rog-mithun&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rog-mithun&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-</details>
-
----
-
-### 📬 Contact Me
-
-- 📧 [mithunsankarsivakumar@gmail.com](mailto:mithunsankarsivakumar@gmail.com)
-- 🔗 [linkedin.com/in/mithunsankar-s](https://www.linkedin.com/in/mithunsankar-s/)
-- 💻 [github.com/rog-mithun](https://github.com/rog-mithun)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rog-mithun&label=Profile%20views&color=0e75b6&style=flat" alt="rog-mithun" />
+<p align="left">
+  <a href="mailto:mithunsankarsivakumar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mithunsankar-s"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rog-mithun"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- Optional: Add a banner -->
-<!-- ![Banner](https://your-custom-banner-url.com/banner.png) -->
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rog-mithun&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rog-mithun&theme=tokyonight" width="49%">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rog-mithun&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rog-mithun&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
