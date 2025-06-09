@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="banner" width="100%"/>
+  <img src="banner.png" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mithunsankar S</h1>
