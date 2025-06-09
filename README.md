@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center">## 🔥 A passionate full-stack + AI developer from India </p>
+<p align="center">🔥 A passionate full-stack + AI developer from India </p>
 
 - 🎯 Built 10+ academic and research projects in **AI/ML**, **ERP**, **GreenTech**, and **IoT**
 - 🚀 Currently working on Generative AI and RL-based assistants
