@@ -79,23 +79,22 @@ Embedded system with BH1750 + ESP32 to monitor idle time in textile industries.
 
 <p align="center">
   <a href="mailto:mithunsankarsivakumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/gmail-new.png" alt="gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/mithunsankar-s" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="linkedin"/>
   </a>
   <a href="https://github.com/rog-mithun" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/github.png" alt="github"/>
   </a>
-  <a href="https://x.com/m_i_t_h_u_n?t=66ZqrrOg0YyxJr7chb3IEw&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/_m_i_t_h_u_n_?t=66ZqrrOg0YyxJr7chb3IEw&s=09" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/twitterx.png" alt="twitter-x"/>
   </a>
-  <a href="https://www.instagram.com/.mithun.?igsh=MWFhbmM3bmZtMjFzZw==" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/_.mithun.___?igsh=MWFhbmM3bmZtMjFzZw==" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="instagram"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rog-mithun&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
-
