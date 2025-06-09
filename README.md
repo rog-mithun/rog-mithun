@@ -3,8 +3,6 @@
   <img src="banner.png" alt="banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mithunsankar S</h1>
-
 <p align="center">
 🎓 MSc Artificial Intelligence & Machine Learning (2021–2026)<br/>
 💼 AI Engineer • Full-Stack Developer • Optimization Enthusiast<br/>
@@ -13,7 +11,7 @@
 
 ---
 
-## 🔥 A passionate full-stack + AI developer from India
+<p align="center">## 🔥 A passionate full-stack + AI developer from India </p>
 
 - 🎯 Built 10+ academic and research projects in **AI/ML**, **ERP**, **GreenTech**, and **IoT**
 - 🚀 Currently working on Generative AI and RL-based assistants
