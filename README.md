@@ -59,7 +59,7 @@ Embedded system with BH1750 + ESP32 to monitor idle time in textile industries.
 **IoT & Optimization:**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square)
-![PSO](https://img.shields.io/badge/PSO--Algorithm-orange?style=flat-square)
+![PSO](https://img.shields.io/badge/PSO-orange?style=flat-square)
 ![BERT](https://img.shields.io/badge/BERT-NLP-blue?style=flat-square)
 
 ---
