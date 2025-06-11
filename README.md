@@ -62,8 +62,6 @@ Embedded system with BH1750 + ESP32 to monitor idle time in textile industries.
 ![PSO](https://img.shields.io/badge/PSO-orange?style=flat-square)
 ![BERT](https://img.shields.io/badge/BERT-NLP-blue?style=flat-square)
 
----
-
 <p>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rog-mithun&layout=compact&theme=tokyonight">
