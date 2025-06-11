@@ -35,32 +35,32 @@ Embedded system with BH1750 + ESP32 to monitor idle time in textile industries.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frameworks & Platforms:**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
-![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat&logo=dialogflow)
-![Odoo](https://img.shields.io/badge/-Odoo-874C8C?style=flat&logo=odoo)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-874C8C?style=flat-square&logo=odoo&logoColor=white)
 
 **Cloud & Databases:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **IoT & Optimization:**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
-![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat)
-![PSO](https://img.shields.io/badge/-PSO%20Algorithm-orange?style=flat)
-![BERT](https://img.shields.io/badge/-BERT-blue?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square)
+![PSO](https://img.shields.io/badge/PSO--Algorithm-orange?style=flat-square)
+![BERT](https://img.shields.io/badge/BERT-NLP-blue?style=flat-square)
 
 ---
 
