@@ -27,7 +27,7 @@ LLM-powered simulator that generates personalized career paths using Gemini + Sa
 ### 🤖 RL Chatbot Assistant  
 Multi-turn voice-based chatbot trained via Reinforcement Learning (DQN + BERT).
 
-### ☀️ Solar PSO Optimizer  
+### ☀️ Solar Site Optimizer  
 Selects optimal locations for solar plants using Particle Swarm Optimization + FastAPI + React.
 
 ### 🧵 IoT Textile Monitor  
